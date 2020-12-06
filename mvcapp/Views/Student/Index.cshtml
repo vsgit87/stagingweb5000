@@ -1,0 +1,22 @@
+﻿@model IEnumerable<mvcapp.Models.Student>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="jumbotron">
+    <h1>This is the student data</h1>
+</div>
+<div>
+    <ul>
+        @foreach (var student in Model)
+        {
+            <li>Student ID is @student.Id</li>
+            <li>Student Name is @student.Name</li>
+            <li>The course id is @student.CourseId</li>
+            
+        }
+    </ul>
+
+</div>
+
+

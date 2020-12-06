@@ -1,0 +1,474 @@
+C:\App\mvcapp\mvcapp\bin\mvcapp.dll.config
+C:\App\mvcapp\mvcapp\bin\mvcapp.dll
+C:\App\mvcapp\mvcapp\bin\mvcapp.pdb
+C:\App\mvcapp\mvcapp\bin\roslyn\csc.exe
+C:\App\mvcapp\mvcapp\bin\roslyn\csc.exe.config
+C:\App\mvcapp\mvcapp\bin\roslyn\csc.rsp
+C:\App\mvcapp\mvcapp\bin\roslyn\csi.exe
+C:\App\mvcapp\mvcapp\bin\roslyn\csi.exe.config
+C:\App\mvcapp\mvcapp\bin\roslyn\csi.rsp
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\App\mvcapp\mvcapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.AppContext.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Collections.Immutable.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Console.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.IO.Compression.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.IO.FileSystem.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Net.Http.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Net.Sockets.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.ValueTuple.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Xml.XPath.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\App\mvcapp\mvcapp\bin\roslyn\vbc.exe
+C:\App\mvcapp\mvcapp\bin\roslyn\vbc.exe.config
+C:\App\mvcapp\mvcapp\bin\roslyn\vbc.rsp
+C:\App\mvcapp\mvcapp\bin\roslyn\VBCSCompiler.exe
+C:\App\mvcapp\mvcapp\bin\roslyn\VBCSCompiler.exe.config
+C:\App\mvcapp\mvcapp\bin\Antlr3.Runtime.dll
+C:\App\mvcapp\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\App\mvcapp\mvcapp\bin\Microsoft.Web.Infrastructure.dll
+C:\App\mvcapp\mvcapp\bin\Newtonsoft.Json.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.Helpers.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.Mvc.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.Optimization.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.Razor.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.WebPages.Deployment.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.WebPages.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.WebPages.Razor.dll
+C:\App\mvcapp\mvcapp\bin\WebGrease.dll
+C:\App\mvcapp\mvcapp\bin\System.Web.Helpers.xml
+C:\App\mvcapp\mvcapp\bin\System.Web.Mvc.xml
+C:\App\mvcapp\mvcapp\bin\System.Web.Optimization.xml
+C:\App\mvcapp\mvcapp\bin\System.Web.Razor.xml
+C:\App\mvcapp\mvcapp\bin\System.Web.WebPages.xml
+C:\App\mvcapp\mvcapp\bin\System.Web.WebPages.Deployment.xml
+C:\App\mvcapp\mvcapp\bin\System.Web.WebPages.Razor.xml
+C:\App\mvcapp\mvcapp\bin\Newtonsoft.Json.xml
+C:\App\mvcapp\mvcapp\bin\Antlr3.Runtime.pdb
+C:\App\mvcapp\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\App\mvcapp\mvcapp\obj\Debug\mvcapp.csprojAssemblyReference.cache
+C:\App\mvcapp\mvcapp\obj\Debug\mvcapp.csproj.CoreCompileInputs.cache
+C:\App\mvcapp\mvcapp\obj\Debug\mvcapp.csproj.CopyComplete
+C:\App\mvcapp\mvcapp\obj\Debug\mvcapp.dll
+C:\App\mvcapp\mvcapp\obj\Debug\mvcapp.pdb
+C:\App\mvcapp -2\mvcapp\bin\mvcapp.dll.config
+C:\App\mvcapp -2\mvcapp\bin\mvcapp.dll
+C:\App\mvcapp -2\mvcapp\bin\mvcapp.pdb
+C:\App\mvcapp -2\mvcapp\bin\roslyn\csc.exe
+C:\App\mvcapp -2\mvcapp\bin\roslyn\csc.exe.config
+C:\App\mvcapp -2\mvcapp\bin\roslyn\csc.rsp
+C:\App\mvcapp -2\mvcapp\bin\roslyn\csi.exe
+C:\App\mvcapp -2\mvcapp\bin\roslyn\csi.exe.config
+C:\App\mvcapp -2\mvcapp\bin\roslyn\csi.rsp
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\App\mvcapp -2\mvcapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.AppContext.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Collections.Immutable.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Console.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.IO.Compression.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.IO.FileSystem.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Net.Http.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Net.Sockets.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.ValueTuple.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Xml.XPath.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\App\mvcapp -2\mvcapp\bin\roslyn\vbc.exe
+C:\App\mvcapp -2\mvcapp\bin\roslyn\vbc.exe.config
+C:\App\mvcapp -2\mvcapp\bin\roslyn\vbc.rsp
+C:\App\mvcapp -2\mvcapp\bin\roslyn\VBCSCompiler.exe
+C:\App\mvcapp -2\mvcapp\bin\roslyn\VBCSCompiler.exe.config
+C:\App\mvcapp -2\mvcapp\bin\Antlr3.Runtime.dll
+C:\App\mvcapp -2\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\App\mvcapp -2\mvcapp\bin\Microsoft.Web.Infrastructure.dll
+C:\App\mvcapp -2\mvcapp\bin\Newtonsoft.Json.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Helpers.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Mvc.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Optimization.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Razor.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.WebPages.Deployment.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.WebPages.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.WebPages.Razor.dll
+C:\App\mvcapp -2\mvcapp\bin\WebGrease.dll
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Helpers.xml
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Mvc.xml
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Optimization.xml
+C:\App\mvcapp -2\mvcapp\bin\System.Web.Razor.xml
+C:\App\mvcapp -2\mvcapp\bin\System.Web.WebPages.xml
+C:\App\mvcapp -2\mvcapp\bin\System.Web.WebPages.Deployment.xml
+C:\App\mvcapp -2\mvcapp\bin\System.Web.WebPages.Razor.xml
+C:\App\mvcapp -2\mvcapp\bin\Newtonsoft.Json.xml
+C:\App\mvcapp -2\mvcapp\bin\Antlr3.Runtime.pdb
+C:\App\mvcapp -2\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\App\mvcapp -2\mvcapp\obj\Debug\mvcapp.csprojAssemblyReference.cache
+C:\App\mvcapp -2\mvcapp\obj\Debug\mvcapp.csproj.CoreCompileInputs.cache
+C:\App\mvcapp -2\mvcapp\obj\Debug\mvcapp.csproj.CopyComplete
+C:\App\mvcapp -2\mvcapp\obj\Debug\mvcapp.dll
+C:\App\mvcapp -2\mvcapp\obj\Debug\mvcapp.pdb
+C:\App\mvcapp -6\mvcapp\bin\mvcapp.dll.config
+C:\App\mvcapp -6\mvcapp\bin\mvcapp.dll
+C:\App\mvcapp -6\mvcapp\bin\mvcapp.pdb
+C:\App\mvcapp -6\mvcapp\bin\roslyn\csc.exe
+C:\App\mvcapp -6\mvcapp\bin\roslyn\csc.exe.config
+C:\App\mvcapp -6\mvcapp\bin\roslyn\csc.rsp
+C:\App\mvcapp -6\mvcapp\bin\roslyn\csi.exe
+C:\App\mvcapp -6\mvcapp\bin\roslyn\csi.exe.config
+C:\App\mvcapp -6\mvcapp\bin\roslyn\csi.rsp
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\App\mvcapp -6\mvcapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.AppContext.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Collections.Immutable.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Console.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.IO.Compression.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.IO.FileSystem.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Net.Http.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Net.Sockets.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.ValueTuple.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Xml.XPath.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\App\mvcapp -6\mvcapp\bin\roslyn\vbc.exe
+C:\App\mvcapp -6\mvcapp\bin\roslyn\vbc.exe.config
+C:\App\mvcapp -6\mvcapp\bin\roslyn\vbc.rsp
+C:\App\mvcapp -6\mvcapp\bin\roslyn\VBCSCompiler.exe
+C:\App\mvcapp -6\mvcapp\bin\roslyn\VBCSCompiler.exe.config
+C:\App\mvcapp -6\mvcapp\bin\Antlr3.Runtime.dll
+C:\App\mvcapp -6\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\App\mvcapp -6\mvcapp\bin\Microsoft.Web.Infrastructure.dll
+C:\App\mvcapp -6\mvcapp\bin\Newtonsoft.Json.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Helpers.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Mvc.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Optimization.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Razor.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.WebPages.Deployment.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.WebPages.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.WebPages.Razor.dll
+C:\App\mvcapp -6\mvcapp\bin\WebGrease.dll
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Helpers.xml
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Mvc.xml
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Optimization.xml
+C:\App\mvcapp -6\mvcapp\bin\System.Web.Razor.xml
+C:\App\mvcapp -6\mvcapp\bin\System.Web.WebPages.xml
+C:\App\mvcapp -6\mvcapp\bin\System.Web.WebPages.Deployment.xml
+C:\App\mvcapp -6\mvcapp\bin\System.Web.WebPages.Razor.xml
+C:\App\mvcapp -6\mvcapp\bin\Newtonsoft.Json.xml
+C:\App\mvcapp -6\mvcapp\bin\Antlr3.Runtime.pdb
+C:\App\mvcapp -6\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\App\mvcapp -6\mvcapp\obj\Debug\mvcapp.csprojAssemblyReference.cache
+C:\App\mvcapp -6\mvcapp\obj\Debug\mvcapp.csproj.CoreCompileInputs.cache
+C:\App\mvcapp -6\mvcapp\obj\Debug\mvcapp.csproj.CopyComplete
+C:\App\mvcapp -6\mvcapp\obj\Debug\mvcapp.dll
+C:\App\mvcapp -6\mvcapp\obj\Debug\mvcapp.pdb
+C:\App\mvcapp -7\mvcapp\bin\mvcapp.dll.config
+C:\App\mvcapp -7\mvcapp\bin\mvcapp.dll
+C:\App\mvcapp -7\mvcapp\bin\mvcapp.pdb
+C:\App\mvcapp -7\mvcapp\bin\roslyn\csc.exe
+C:\App\mvcapp -7\mvcapp\bin\roslyn\csc.exe.config
+C:\App\mvcapp -7\mvcapp\bin\roslyn\csc.rsp
+C:\App\mvcapp -7\mvcapp\bin\roslyn\csi.exe
+C:\App\mvcapp -7\mvcapp\bin\roslyn\csi.exe.config
+C:\App\mvcapp -7\mvcapp\bin\roslyn\csi.rsp
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\App\mvcapp -7\mvcapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.AppContext.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Collections.Immutable.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Console.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.IO.Compression.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.IO.FileSystem.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Net.Http.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Net.Sockets.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.ValueTuple.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Xml.XPath.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\App\mvcapp -7\mvcapp\bin\roslyn\vbc.exe
+C:\App\mvcapp -7\mvcapp\bin\roslyn\vbc.exe.config
+C:\App\mvcapp -7\mvcapp\bin\roslyn\vbc.rsp
+C:\App\mvcapp -7\mvcapp\bin\roslyn\VBCSCompiler.exe
+C:\App\mvcapp -7\mvcapp\bin\roslyn\VBCSCompiler.exe.config
+C:\App\mvcapp -7\mvcapp\bin\Antlr3.Runtime.dll
+C:\App\mvcapp -7\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\App\mvcapp -7\mvcapp\bin\Microsoft.Web.Infrastructure.dll
+C:\App\mvcapp -7\mvcapp\bin\Newtonsoft.Json.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Helpers.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Mvc.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Optimization.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Razor.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.WebPages.Deployment.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.WebPages.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.WebPages.Razor.dll
+C:\App\mvcapp -7\mvcapp\bin\WebGrease.dll
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Helpers.xml
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Mvc.xml
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Optimization.xml
+C:\App\mvcapp -7\mvcapp\bin\System.Web.Razor.xml
+C:\App\mvcapp -7\mvcapp\bin\System.Web.WebPages.xml
+C:\App\mvcapp -7\mvcapp\bin\System.Web.WebPages.Deployment.xml
+C:\App\mvcapp -7\mvcapp\bin\System.Web.WebPages.Razor.xml
+C:\App\mvcapp -7\mvcapp\bin\Newtonsoft.Json.xml
+C:\App\mvcapp -7\mvcapp\bin\Antlr3.Runtime.pdb
+C:\App\mvcapp -7\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\App\mvcapp -7\mvcapp\obj\Debug\mvcapp.csprojAssemblyReference.cache
+C:\App\mvcapp -7\mvcapp\obj\Debug\mvcapp.csproj.CoreCompileInputs.cache
+C:\App\mvcapp -7\mvcapp\obj\Debug\mvcapp.csproj.CopyComplete
+C:\App\mvcapp -7\mvcapp\obj\Debug\mvcapp.dll
+C:\App\mvcapp -7\mvcapp\obj\Debug\mvcapp.pdb
+C:\Udemy\App\mvcapp -5\mvcapp\bin\mvcapp.dll.config
+C:\Udemy\App\mvcapp -5\mvcapp\bin\mvcapp.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\mvcapp.pdb
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\csc.exe
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\csc.exe.config
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\csc.rsp
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\csi.exe
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\csi.exe.config
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\csi.rsp
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.AppContext.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Collections.Immutable.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Console.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.IO.Compression.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.IO.FileSystem.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Net.Http.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Net.Sockets.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.ValueTuple.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Xml.XPath.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\vbc.exe
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\vbc.exe.config
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\vbc.rsp
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\VBCSCompiler.exe
+C:\Udemy\App\mvcapp -5\mvcapp\bin\roslyn\VBCSCompiler.exe.config
+C:\Udemy\App\mvcapp -5\mvcapp\bin\Antlr3.Runtime.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\Newtonsoft.Json.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Helpers.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Mvc.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Optimization.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Razor.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.WebPages.Deployment.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.WebPages.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.WebPages.Razor.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\WebGrease.dll
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Helpers.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Mvc.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Optimization.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.Razor.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.WebPages.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.WebPages.Deployment.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\System.Web.WebPages.Razor.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\Newtonsoft.Json.xml
+C:\Udemy\App\mvcapp -5\mvcapp\bin\Antlr3.Runtime.pdb
+C:\Udemy\App\mvcapp -5\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Udemy\App\mvcapp -5\mvcapp\obj\Debug\mvcapp.csprojAssemblyReference.cache
+C:\Udemy\App\mvcapp -5\mvcapp\obj\Debug\mvcapp.csproj.CoreCompileInputs.cache
+C:\Udemy\App\mvcapp -5\mvcapp\obj\Debug\mvcapp.csproj.CopyComplete
+C:\Udemy\App\mvcapp -5\mvcapp\obj\Debug\mvcapp.dll
+C:\Udemy\App\mvcapp -5\mvcapp\obj\Debug\mvcapp.pdb
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\mvcapp.dll.config
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\mvcapp.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\mvcapp.pdb
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\csc.exe
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\csc.exe.config
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\csc.rsp
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\csi.exe
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\csi.exe.config
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\csi.rsp
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.AppContext.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Collections.Immutable.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Console.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.IO.Compression.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.IO.FileSystem.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Net.Http.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Net.Sockets.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.ValueTuple.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Xml.XPath.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\vbc.exe
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\vbc.exe.config
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\vbc.rsp
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\VBCSCompiler.exe
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\roslyn\VBCSCompiler.exe.config
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\Antlr3.Runtime.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\Microsoft.Web.Infrastructure.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\Newtonsoft.Json.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Helpers.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Mvc.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Optimization.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Razor.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.WebPages.Deployment.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.WebPages.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.WebPages.Razor.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\WebGrease.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Helpers.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Mvc.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Optimization.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.Razor.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.WebPages.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.WebPages.Deployment.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\System.Web.WebPages.Razor.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\Newtonsoft.Json.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\Antlr3.Runtime.pdb
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\obj\Debug\mvcapp.csproj.CoreCompileInputs.cache
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\obj\Debug\mvcapp.csproj.CopyComplete
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\obj\Debug\mvcapp.dll
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\obj\Debug\mvcapp.pdb
+C:\AZ-204\43 Lab Azure Web Apps\mvcapp -5\mvcapp\obj\Debug\mvcapp.csprojAssemblyReference.cache
